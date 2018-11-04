@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
           <h1>
-            Kevin
+            Kevin-taojian
             </h1>
             <p1>
               my name is kevin, i am 8 years old.
